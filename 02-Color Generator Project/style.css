@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#color-box {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  margin: 20px auto;
+}
+#color-text {
+  font-size: 20px;
+}
+#copy-button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  opacity: 70%;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+#copy-button:hover {
+  background-color: rgb(10, 102, 10);
+}
