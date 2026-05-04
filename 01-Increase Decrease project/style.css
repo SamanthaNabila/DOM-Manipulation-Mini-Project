@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+body {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+#number {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#button {
+  margin: 5px;
+}
+#plus {
+  padding: 20px;
+  margin-right: 10px;
+}
+
+#minus {
+  padding: 20px;
+  margin-left: 10px;
+}
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
