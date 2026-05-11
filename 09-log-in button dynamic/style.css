@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#Login {
+  padding: 20px;
+  font-size: 20px;
+  border: 5px;
+  border-radius: 5px;
+}
+.btn {
+  display: flex;
+  gap: 3rem;
+}
+#plus ,#minus{
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+}
