@@ -21,14 +21,14 @@
 <tr style="background:#f9fafb;">
   <td align="center" style="padding:10px;">3</td>
   <td align="center">Breathing Timer Projecte</td>
-  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-gqag/2JrVtxtHDn6rh4jjwvqCxUtx5uKa">View</a></td>
+  <td align="center"><a href="https://dom-manipulation-mini-project-gqag.vercel.app/">View</a></td>
 </tr>
 
 <tr>
   <td align="center" style="padding:10px;">4</td>
   <td align="center">	
 Weather App</td>
-  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-ze7u/A7z3VJscdZwvZDyQKrVpKHcrADbr">View</a></td>
+  <td align="center"><a href="https://dom-manipulation-mini-project-ze7u.vercel.app/">View</a></td>
 </tr>
 
 <tr style="background:#f9fafb;">
@@ -47,7 +47,7 @@ Password Generator</td>
 <tr style="background:#f9fafb;">
   <td align="center" style="padding:10px;">7</td>
   <td align="center">Dark mode Light mood Project</td>
-  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-jh1n/31mc5WYMy8D79WiJozXZARGvC5ch">View</a></td>
+  <td align="center"><a href="https://dom-manipulation-mini-project-jh1n.vercel.app/">View</a></td>
 </tr>
 
 <tr>
