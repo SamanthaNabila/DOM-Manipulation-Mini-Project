@@ -7,6 +7,50 @@
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
-    <script src="script.js"></script>
+    <form>
+      <div class="container">
+        <h1 style="text-align: center; margin: 0px">Sign In</h1>
+        <div class="name_box">
+          <label for="uname"><p class="user_name">User Name</p></label>
+          <br />
+          <input
+            id="uname"
+            type="email"
+            placeholder="Enter Username or email"
+            name="uname"
+            required
+          />
+        </div>
+
+        <div class="password_div">
+          <label for="pass"><p class="password">Enter Password</p></label>
+          <br />
+          <input
+            id="pass"
+            type="password"
+            placeholder="Enter Password"
+            name="pass"
+            value=""
+            required
+          />
+
+          <button class="show" id="show">Show</button>
+        </div>
+
+        <div class="remember">
+          <div>
+            <input type="checkbox" />
+            <label for="checkbox"><span>Remember me</span></label>
+          </div>
+          <a href="#">Forgot Password?</a>
+        </div>
+
+        <button id="submit" type="submit">
+          <span>Continue with Email</span>
+        </button>
+        <p>Do not have Account <a href="register.html">Register</a></p>
+      </div>
+    </form>
+    <script src="scriptlogin.js"></script>
   </body>
 </html>

@@ -3,6 +3,9 @@ const para = document.getElementById("para");
 const plus = document.getElementById("plus");
 const minus = document.getElementById("minus");
 
+const Password = document.getElementById("pass");
+const showBtn = document.getElementById("show");
+
 const currentSize = window.getComputedStyle(para).fontSize;
 let sizeNumber = parseInt(currentSize);
 
@@ -27,4 +30,7 @@ plus.addEventListener("click", () => {
 });
 minus.addEventListener("click", () => {
   increase(-2);
+});
+login.addEventListener("click", () => {
+  window.location.href = "login.html";
 });
