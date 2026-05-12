@@ -15,7 +15,7 @@
 <tr>
   <td align="center" style="padding:10px;">2</td>
   <td align="center">Color Generator Project</td>
-  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-4sf9/Fw6vuqTUCrANHnnUyegSwq7GMBqC">View</a></td>
+  <td align="center"><a href="https://dom-manipulation-mini-project-4sf9.vercel.app/">View</a></td>
 </tr>
 
 <tr style="background:#f9fafb;">
