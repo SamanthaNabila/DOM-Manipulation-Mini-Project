@@ -24,11 +24,11 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 
   <tr style="background:#4f46e5; color:white; height:45px;">
 
-    <th style="padding:10px;">Project No</th>
+    <td style="padding:10px;">Project No</td>
 
-    <th style="padding:10px;">Project Name</th>
+    <td style="padding:10px;">Project Name</td>
 
-    <th style="padding:10px;">Project Link</th>
+    <td style="padding:10px;">Project Link</td>
 
   </tr>
 
