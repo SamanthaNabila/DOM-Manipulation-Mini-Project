@@ -53,7 +53,7 @@ Password Generator</td>
 <tr>
   <td align="center" style="padding:10px;">8</td>
   <td align="center">Login page and multi tasking website</td>
-  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-7scj/6uscje3Lv5ni9URQmT22spGsV8W3">View</a></td>
+  <td align="center"><a href="https://dom-manipulation-mini-project-7scj.vercel.app/">View</a></td>
 </tr>
 
 <tr style="background:#f9fafb;">
