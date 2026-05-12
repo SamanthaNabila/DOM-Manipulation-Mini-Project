@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beautiful Project Table</title>
+</head>
+
+<body style="background:#f4f7fc; font-family:Arial, sans-serif;">
+
 <table 
 style="
 width: 55%;
@@ -85,3 +95,6 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   </tr>
 
 </table>
+
+</body>
+</html>
