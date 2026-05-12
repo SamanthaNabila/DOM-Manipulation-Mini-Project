@@ -15,20 +15,20 @@
 <tr>
   <td align="center" style="padding:10px;">2</td>
   <td align="center">Color Generator Project</td>
-  <td align="center"><a href="#">View</a></td>
+  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-4sf9/Fw6vuqTUCrANHnnUyegSwq7GMBqC">View</a></td>
 </tr>
 
 <tr style="background:#f9fafb;">
   <td align="center" style="padding:10px;">3</td>
   <td align="center">Breathing Timer Projecte</td>
-  <td align="center"><a href="#">View</a></td>
+  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-gqag/2JrVtxtHDn6rh4jjwvqCxUtx5uKa">View</a></td>
 </tr>
 
 <tr>
   <td align="center" style="padding:10px;">4</td>
   <td align="center">	
 Weather App</td>
-  <td align="center"><a href="#">View</a></td>
+  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-ze7u/A7z3VJscdZwvZDyQKrVpKHcrADbr">View</a></td>
 </tr>
 
 <tr style="background:#f9fafb;">
@@ -47,13 +47,13 @@ Password Generator</td>
 <tr style="background:#f9fafb;">
   <td align="center" style="padding:10px;">7</td>
   <td align="center">Dark mode Light mood Project</td>
-  <td align="center"><a href="#">View</a></td>
+  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-jh1n/31mc5WYMy8D79WiJozXZARGvC5ch">View</a></td>
 </tr>
 
 <tr>
   <td align="center" style="padding:10px;">8</td>
-  <td align="center">Login multitasking website</td>
-  <td align="center"><a href="#">View</a></td>
+  <td align="center">Login page and multi tasking website</td>
+  <td align="center"><a href="https://vercel.com/samanthanabilas-projects/dom-manipulation-mini-project-7scj/6uscje3Lv5ni9URQmT22spGsV8W3">View</a></td>
 </tr>
 
 <tr style="background:#f9fafb;">
