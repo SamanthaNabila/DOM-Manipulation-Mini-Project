@@ -1,100 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Beautiful Project Table</title>
-</head>
+<table align="center" style="width:70%; border-collapse:collapse; font-family:Arial, sans-serif; overflow:hidden; border-radius:10px;">
 
-<body style="background:#f4f7fc; font-family:Arial, sans-serif;">
+<tr style="background:#4f46e5; color:white;">
+  <th style="padding:12px;">Project No</th>
+  <th style="padding:12px;">Project Name</th>
+  <th style="padding:12px;">Project Link</th>
+</tr>
 
-<table 
-style="
-width: 55%;
-margin: 40px auto;
-border-collapse: collapse;
-text-align: center;
-background: white;
-border-radius: 12px;
-overflow: hidden;
-box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-">
+<tr style="background:#f9fafb;">
+  <td align="center" style="padding:10px;">1</td>
+  <td align="center">Portfolio Website</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-  <!-- Header -->
+<tr>
+  <td align="center" style="padding:10px;">2</td>
+  <td align="center">Weather App</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-  <tr style="background:#4f46e5; color:white; height:45px;">
+<tr style="background:#f9fafb;">
+  <td align="center" style="padding:10px;">3</td>
+  <td align="center">Login Page</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-    <td style="padding:10px;">Project No</td>
+<tr>
+  <td align="center" style="padding:10px;">4</td>
+  <td align="center">To-Do App</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-    <td style="padding:10px;">Project Name</td>
+<tr style="background:#f9fafb;">
+  <td align="center" style="padding:10px;">5</td>
+  <td align="center">Calculator</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-    <td style="padding:10px;">Project Link</td>
+<tr>
+  <td align="center" style="padding:10px;">6</td>
+  <td align="center">E-Commerce UI</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-  </tr>
+<tr style="background:#f9fafb;">
+  <td align="center" style="padding:10px;">7</td>
+  <td align="center">Netflix Clone</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-  <!-- Rows -->
+<tr>
+  <td align="center" style="padding:10px;">8</td>
+  <td align="center">Restaurant Website</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-  <tr style="height:40px;">
-    <td>1</td>
-    <td>Portfolio Website</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
+<tr style="background:#f9fafb;">
+  <td align="center" style="padding:10px;">9</td>
+  <td align="center">Blog Website</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
-  <tr style="background:#f9fafb; height:40px;">
-    <td>2</td>
-    <td>Weather App</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="height:40px;">
-    <td>3</td>
-    <td>Login Page</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="background:#f9fafb; height:40px;">
-    <td>4</td>
-    <td>To-Do App</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="height:40px;">
-    <td>5</td>
-    <td>Calculator</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="background:#f9fafb; height:40px;">
-    <td>6</td>
-    <td>E-Commerce UI</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="height:40px;">
-    <td>7</td>
-    <td>Netflix Clone</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="background:#f9fafb; height:40px;">
-    <td>8</td>
-    <td>Restaurant Website</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="height:40px;">
-    <td>9</td>
-    <td>Blog Website</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
-
-  <tr style="background:#f9fafb; height:40px;">
-    <td>10</td>
-    <td>Music Player</td>
-    <td><a href="#" style="color:#4f46e5; text-decoration:none;">View</a></td>
-  </tr>
+<tr>
+  <td align="center" style="padding:10px;">10</td>
+  <td align="center">Music Player</td>
+  <td align="center"><a href="#">View</a></td>
+</tr>
 
 </table>
-
-</body>
-</html>
