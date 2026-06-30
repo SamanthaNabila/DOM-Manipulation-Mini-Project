@@ -35,7 +35,7 @@ Weather App</td>
   <td align="center" style="padding:10px;">5</td>
   <td align="center">	
 Password Generator</td>
-  <td align="center"><a href="#">View</a></td>
+  <td align="center"><a href="https://dom-manipulation-mini-project-8m65.vercel.app/">View</a></td>
 </tr>
 
 <tr>
